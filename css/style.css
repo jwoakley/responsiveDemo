@@ -4,31 +4,15 @@
   box-sizing: border-box;
 }
 
-html {
-  background-color: blueviolet;
-}
-
-
-
-
-/* ---------base----------
-
-
-
-{
-  margin: 0;
-  padding: 0;
-  box-sizing: border-box;
-}
-
 body {
- height: 1280px;
- width: 720px;
- background-color: blueviolet;
-}
+  height: 1280px;
+  width: 720px;
+  background-color: lightblue;
+ }
+
 
 /* --------typography---------- */
-/* h1 {
+ h1 {
   font-size: 48px;
 }
 
@@ -49,13 +33,13 @@ a {
 
 /* --------styles--------------- */
 
-/* header { */
+header { 
   /* display: ?
   flex-direction: ?
-  flex-wrap: ? */
-/* } */
+  flex-wrap: ?  */
+ }
 
-/* #logo {
+ #logo {
   width: 200px;
 }
 
@@ -82,12 +66,12 @@ a {
 #beforeAfter {
   background-color: chartreuse;
   /* display: ? */
-/* }
+}
 
 #gifs {
   background-color: coral;
   /* display: ?;
-   what else?
+   what else?*/
 }
 
 .bodytext {
@@ -96,7 +80,7 @@ a {
 
 #media {
   background-color: hotpink;
-} */ 
+} 
 
 /* #mediaImages { */
   /* display: ?; */
